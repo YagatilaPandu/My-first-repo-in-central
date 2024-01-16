@@ -2,6 +2,7 @@ public class Repo1
 {
 int i =10;
 int j =20;
+static int f =30;
 }
 
 public static void main(string[] args)
