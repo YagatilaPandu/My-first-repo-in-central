@@ -1,0 +1,11 @@
+public class Repo1
+{
+int i =10;
+int j =20;
+}
+
+public static void main(string[] args)
+{
+System.out.println("main method of Repo1");
+
+}
